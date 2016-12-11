@@ -19,4 +19,4 @@ I welcome any improvements, contributions to code, and want to know if there are
 
 I also would like to know if any of these get used for any real-life applications. Any feedback is welcomed!
 
-Enjoy
+
